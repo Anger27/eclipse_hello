@@ -5,4 +5,4 @@ public class PushPrint {
 		System.out.println("Add Java file");
 	}
 
-}	
+}
